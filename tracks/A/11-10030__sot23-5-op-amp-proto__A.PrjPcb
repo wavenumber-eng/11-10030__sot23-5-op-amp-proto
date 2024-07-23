@@ -1,0 +1,82 @@
+[Design]
+Version = 1.0
+HeirarchyMode = 0
+CurrentVariant = A
+
+[Document1]
+DocumentPath = sot23-5-op-amp-proto__TOP_LEVEL__A.SchDoc
+
+[Document2]
+DocumentPath = sot23-5-op-amp-proto__A.PcbDoc
+
+[Document3]
+DocumentPath = sot23-5-op-amp-proto__FAB__A.PCBDwf
+
+[Document4]
+DocumentPath = sot23-5-op-amp-proto__ASSY__A.PCBDwf
+
+[Document5]
+DocumentPath = sot23-5-op-amp-proto__A.OutJob
+
+[Document6]
+DocumentPath = sot23-5-op-amp-proto__A.BomDoc
+
+[Document7]
+DocumentPath = BOM_Template.xls
+
+[Parameter1]
+Name = CCA_PART_NUMBER
+Value = 10-10030
+
+[Parameter2]
+Name = CCA_TITLE
+Value = sot23-5-op-amp-proto
+
+[Parameter3]
+Name = CCA_CODENAME
+Value = sot23-5-op-amp-proto
+
+[Parameter4]
+Name = CCA_DESCRIPTION
+Value = sot23-5-op-amp-proto
+
+[Parameter5]
+Name = PCB_PART_NUMBER
+Value = 11-10030
+
+[Parameter6]
+Name = PCB_MIXDOWN
+Value = A
+
+[Parameter7]
+Name = PCB_DATE
+Value = 2024-07-23
+
+[Parameter8]
+Name = PCB_DESCRIPTION
+Value = sot23-5-op-amp-proto
+
+[Parameter9]
+Name = PCB_CODENAME
+Value = sot23-5-op-amp-proto
+
+[Parameter10]
+Name = ENGINEER
+Value = Plexus
+
+[Parameter11]
+Name = STATUS
+Value = PROTOTYPE
+
+[Parameter12]
+Name = SCH_DATE
+Value = 2024-07-23
+
+[ProjectVariant1]
+UniqueID = 43F08462-5661-438A-841D-8D692E215FC2
+Description = A
+AllowFabrication = 1
+ParameterCount = 0
+VariationCount = 0
+ParamVariationCount = 0
+
