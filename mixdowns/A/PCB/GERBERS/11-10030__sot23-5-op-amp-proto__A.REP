@@ -1,0 +1,156 @@
+*************************************************************
+FileName = 11-10030__sot23-5-op-amp-proto__A.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : 11-10030__sot23-5-op-amp-proto__A.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 11-10030__sot23-5-op-amp-proto__A.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 11-10030__sot23-5-op-amp-proto__A.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 11-10030__sot23-5-op-amp-proto__A.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 11-10030__sot23-5-op-amp-proto__A.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 11-10030__sot23-5-op-amp-proto__A.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : 11-10030__sot23-5-op-amp-proto__A.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : [8] Board Outline
+      File : 11-10030__sot23-5-op-amp-proto__A.GM8
+
+    Adding Layer      : [8] Board Outline
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 11-10030__sot23-5-op-amp-proto__A.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 11-10030__sot23-5-op-amp-proto__A.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+*************************************************************
+
